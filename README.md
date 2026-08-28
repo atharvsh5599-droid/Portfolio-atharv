@@ -19,7 +19,7 @@ This is a static website with no build step or dependencies. Open `index.html` i
 
 1. Create a GitHub repository and push this project to its `main` branch.
 2. On GitHub, open **Settings → Pages**.
-3. Under **Build and deployment**, select **GitHub Actions** as the source.
+3. Under **Build and deployment**, select **GitHub Actions** as the source, then save. This one-time step is required before the workflow can deploy.
 4. Push to `main` (or manually run the **Deploy portfolio to GitHub Pages** workflow from the Actions tab).
 
 GitHub will publish the site at `https://<your-github-username>.github.io/<repository-name>/`. The included workflow deploys the static files automatically after every push to `main`.
