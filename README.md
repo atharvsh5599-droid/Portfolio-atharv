@@ -45,3 +45,4 @@ GitHub will publish the site at `https://<your-github-username>.github.io/<repos
 - Email: [atharv.sh5599@gmail.com](mailto:atharv.sh5599@gmail.com)
 - GitHub: [atharvsh5599-droid](https://github.com/atharvsh5599-droid)
 - LinkedIn: [Atharv Sharma](https://www.linkedin.com/in/atharv-sharma-1746a1367)
+bye
